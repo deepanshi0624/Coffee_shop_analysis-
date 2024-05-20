@@ -1,3 +1,4 @@
 # Coffee_shop_analysis-
 
-This the excel project
+This is the Excel project
+Project description
